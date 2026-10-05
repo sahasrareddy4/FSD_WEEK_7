@@ -1,0 +1,45 @@
+.container {
+  width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-family: Arial;
+}
+
+h2 {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+textarea {
+  height: 100px;
+}
+
+p {
+  color: red;
+  font-size: 13px;
+}
+
+button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 10px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
